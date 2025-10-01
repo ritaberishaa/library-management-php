@@ -1,0 +1,48 @@
+# Database files
+*.sqlite
+*.db
+database.sqlite
+public/database.sqlite
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Log files
+*.log
+logs/
+
+# Cache files
+cache/
+tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Composer
+/vendor/
+composer.lock
+
+# Test files
+test_*.php
+*_test.php
+
+# Cookie files
+cookies*.txt
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+temp/
+tmp/

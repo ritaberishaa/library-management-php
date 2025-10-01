@@ -1,0 +1,14 @@
+{
+    "name": "rina/library-management",
+    "description": "Simple PHP Library Management (SQLite)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rina Zeqiri"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
