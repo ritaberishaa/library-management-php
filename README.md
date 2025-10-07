@@ -4,46 +4,46 @@ A comprehensive PHP-based library management system with role-based access contr
 
 ## Features
 
-### 🔐 **Authentication & Authorization**
+### **Authentication & Authorization**
 - Role-based access control (Student, Operator, Super Admin)
 - Secure login/logout system
 - Password management
 - Session management
 
-### 📚 **Book Management**
+### **Book Management**
 - Add, edit, delete books
 - Book inventory tracking
 - ISBN management
 - Author and publication details
 - Copy management (total/available copies)
 
-### 👥 **User Management**
+### **User Management**
 - User registration and management
 - Role assignment (Student, Operator, Super Admin)
 - User profile management
 - Account activation/deactivation
 
-### 📖 **Borrowing System**
+### **Borrowing System**
 - Book borrowing and returning
 - Due date tracking
 - Overdue book management
 - Penalty calculation
 - Borrowing history
 
-### 🔔 **Notification System**
+### **Notification System**
 - Real-time notifications
 - Overdue book alerts
 - Low stock warnings
 - System notifications
 
-### 📊 **Audit Logging**
+### **Audit Logging**
 - Complete activity tracking
 - User action logging
 - IP address tracking
 - Export functionality
 - Search and filter capabilities
 
-### ⚙️ **System Settings**
+### **System Settings**
 - Configurable borrowing limits
 - Penalty rates
 - System preferences
@@ -107,21 +107,21 @@ library-management-php/
 
 ## User Roles
 
-### 👨‍🎓 **Student**
+### **Student**
 - Browse available books
 - Borrow books (up to limit)
 - View borrowing history
 - Pay penalties
 - Receive notifications
 
-### 👨‍💼 **Operator**
+### **Operator**
 - Manage books (add, edit, delete)
 - Process book borrowings/returns
 - Manage student accounts
 - View system notifications
 - Generate reports
 
-### 👨‍💻 **Super Admin**
+### **Super Admin**
 - Full system access
 - User management
 - System settings
